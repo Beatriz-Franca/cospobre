@@ -176,3 +176,10 @@ body {
   .search__icon path {
     fill: white;
   }
+footer {
+    background-color: #ff95ff;
+    color: #fff;
+    padding: 10px;
+    font-size: 14px;
+    text-align: center;
+}
